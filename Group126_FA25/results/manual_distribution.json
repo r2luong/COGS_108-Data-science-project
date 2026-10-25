@@ -1,0 +1,68 @@
+{
+    "activity_duration": {
+        "normal": 0,
+        "transformed_normal": 1,
+        "test_transform": "sqrt"
+    },
+    "activity_months": {
+        "normal": 0,
+        "transformed_normal": 0
+    },
+    "activity_rating_diff": {
+        "normal": 1
+    },
+    "diversity_mean": {
+        "normal": 0,
+        "transformed_normal": 0
+    },
+    "diversity_std": {
+        "normal": 1
+    },
+    "num_cities": {
+        "normal": 0,
+        "transformed_normal": 0
+    },
+    "num_reviews_monthly_max": {
+        "normal": 0,
+        "transformed_normal": 0
+    },
+    "num_reviews_monthly_mean": {
+        "normal": 0,
+        "transformed_normal": 1,
+        "test_transform": "log"
+    },
+    "num_reviews_monthly_std": {
+        "normal": 0,
+        "transformed_normal": 1,
+        "test_transform": "log"
+    },
+    "num_reviews": {
+        "normal": 0,
+        "transformed_normal": 0
+    },
+    "rating_mean": {
+        "normal": 0,
+        "transformed_normal": 0
+    },
+    "rating_std": {
+        "normal": 0,
+        "transformed_normal": 1,
+        "test_transform": "outlier"
+    },
+    "review_length_mean": {
+        "normal": 0,
+        "transformed_normal": 1,
+        "test_transform": "cbrt"
+    },
+    "review_length_std": {
+        "normal": 0,
+        "transformed_normal": 1,
+        "test_transform": "log"
+    },
+    "sentiment_mean": {
+        "normal": 1
+    },
+    "sentiment_std": {
+        "normal": 1
+    }
+}

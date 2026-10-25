@@ -1,0 +1,5 @@
+activity_months,activity_duration
+rating_mean,review_length_mean
+num_reviews,num_cities
+rating_mean,sentiment_mean
+rating_std,sentiment_std

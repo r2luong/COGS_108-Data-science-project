@@ -1,0 +1,16 @@
+rating_mean
+rating_std
+num_reviews
+num_reviews_monthly_mean
+num_reviews_monthly_std
+num_reviews_monthly_max
+review_length_mean
+review_length_std
+num_cities
+sentiment_mean
+sentiment_std
+activity_months
+activity_duration
+activity_rating_diff
+diversity_mean
+diversity_std
